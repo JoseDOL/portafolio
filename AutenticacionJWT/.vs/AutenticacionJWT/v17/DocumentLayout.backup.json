@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|c:\\users\\josed\\downloads\\proyectos\\portafolio\\autenticacionjwt\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|solutionrelative:controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|c:\\users\\josed\\downloads\\proyectos\\portafolio\\autenticacionjwt\\autenticacion\\iautenticacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|solutionrelative:autenticacion\\iautenticacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|c:\\users\\josed\\downloads\\proyectos\\portafolio\\autenticacionjwt\\autenticacion\\autenticacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|solutionrelative:autenticacion\\autenticacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|c:\\users\\josed\\downloads\\proyectos\\portafolio\\autenticacionjwt\\autenticacionjwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|solutionrelative:autenticacionjwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|c:\\users\\josed\\downloads\\proyectos\\portafolio\\autenticacionjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|c:\\users\\josed\\downloads\\proyectos\\portafolio\\autenticacionjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|c:\\users\\josed\\downloads\\proyectos\\portafolio\\autenticacionjwt\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|c:\\users\\josed\\downloads\\proyectos\\portafolio\\autenticacionjwt\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|c:\\users\\josed\\downloads\\proyectos\\portafolio\\autenticacionjwt\\interface\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|solutionrelative:interface\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|c:\\users\\josed\\downloads\\proyectos\\portafolio\\autenticacionjwt\\interface\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9937F19-6860-4554-AF9A-0B332D759DA8}|AutenticacionJWT.csproj|solutionrelative:interface\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T20:32:03.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:20:47.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:17:36.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutenticacionController.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Controllers\\AutenticacionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutenticacionController.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Controllers\\AutenticacionController.cs",
+              "RelativeToolTip": "Controllers\\AutenticacionController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:05:48.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutenticacionServicio.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Autenticacion\\AutenticacionServicio.cs",
+              "RelativeDocumentMoniker": "Autenticacion\\AutenticacionServicio.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Autenticacion\\AutenticacionServicio.cs",
+              "RelativeToolTip": "Autenticacion\\AutenticacionServicio.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvy0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:55:16.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAutenticacionServicio.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Autenticacion\\IAutenticacionServicio.cs",
+              "RelativeDocumentMoniker": "Autenticacion\\IAutenticacionServicio.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Autenticacion\\IAutenticacionServicio.cs",
+              "RelativeToolTip": "Autenticacion\\IAutenticacionServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:52:16.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Interface\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Interface\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Interface\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Interface\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:41:31.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutenticacionJWT",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\AutenticacionJWT.csproj",
+              "RelativeDocumentMoniker": "AutenticacionJWT.csproj",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\AutenticacionJWT.csproj",
+              "RelativeToolTip": "AutenticacionJWT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T18:55:06.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Interface\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Interface\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Interface\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "Interface\\IUsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:38:44.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\Proyectos\\portafolio\\AutenticacionJWT\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:51:47.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AutenticacionJWT.Controllers.AutenticacionController",
+    "Method": "Login",
+    "RelativePath": "api/Autenticacion/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "moodel",
+        "Type": "AutenticacionJWT.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
